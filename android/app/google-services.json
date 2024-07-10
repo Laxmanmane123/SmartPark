@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "505234543952",
+    "firebase_url": "https://dipex-ba431-default-rtdb.firebaseio.com",
+    "project_id": "dipex-ba431",
+    "storage_bucket": "dipex-ba431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505234543952:android:2aa594d627b8e4b6d48855",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_street_parking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_lT29mjWEmeDokU30Z6of1iUvqm5DwnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
